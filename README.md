@@ -11,7 +11,7 @@
   />
 </a>
 
-<p>Cheatsheets for experienced React developers getting started with TypeScript</p>
+<p>为经验丰富的 React 开发人员准备的 TypeScript 入门备忘单</p>
 
 [**Web docs**](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) |
 [中文翻译](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn) |
@@ -34,9 +34,9 @@
 
 [![All Contributors](https://img.shields.io/github/contributors/typescript-cheatsheets/react-typescript-cheatsheet?color=orange&style=flat-square)](/CONTRIBUTORS.md) | [![Discord](https://img.shields.io/discord/508357248330760243.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wTGS5z9) | [![Tweet](https://img.shields.io/twitter/url?label=Help%20spread%20the%20word%21&style=social&url=https%3A%2F%2Fgithub.com%2Ftypescript-cheatsheets%2Freact)](http://twitter.com/home?status=Awesome%20%40Reactjs%20%2B%20%40TypeScript%20cheatsheet%20by%20%40ferdaber%2C%20%40sebsilbermann%2C%20%40swyx%20%26%20others!%20https%3A%2F%2Fgithub.com%2Ftypescript-cheatsheets%2Freact)
 
-## All React + TypeScript Cheatsheets
+## 所有 React + TypeScript 备忘单
 
-- **The Basic Cheatsheet** ([`/README.md`](/README.md#basic-cheatsheet-table-of-contents)) is focused on helping React devs just start using TS in React **apps**
+- **基本备忘单** ([`/README.md`](/README.md#basic-cheatsheet-table-of-contents)) 主要用于帮助 React 开发人员开始在 React 中使用 TS**apps**
   - Focus on opinionated best practices, copy+pastable examples.
   - Explains some basic TS types usage and setup along the way.
   - Answers the most Frequently Asked Questions.
